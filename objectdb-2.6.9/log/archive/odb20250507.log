@@ -1,0 +1,2086 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 11:17:07 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 11:17:07 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 11:17:07 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 11:17:07 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 11724@AitorMilicua
+
+[2025-05-07 11:17:07 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 11:17:07 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 11:17:07 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 11:17:07 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 11:17:07 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 11:17:07 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 11:17:07 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 11:17:07 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 11:17:07 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 11:17:07 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 11:17:07 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 11:17:07 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 11:17:07 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 11:17:07 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 11:17:07 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 11:17:07 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 11:17:07 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 11:17:07 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 11:17:07 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 11:17:07 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 11:17:07 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 11:17:07 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 11:17:07 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 11:17:07 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 11:17:07 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 11:17:07 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 11:19:02 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 11:19:03 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 11:19:03 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 11:19:16 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 11:19:16 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 11:19:16 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 11:19:17 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 26832@AitorMilicua
+
+[2025-05-07 11:19:17 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 11:19:17 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 11:19:17 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 11:19:17 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 11:19:17 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 11:19:17 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 11:19:17 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 11:19:17 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 11:19:17 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 11:19:17 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 11:19:17 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 11:19:17 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 11:19:17 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 11:19:17 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 11:19:17 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 11:19:17 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 11:19:17 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 11:19:17 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 11:19:17 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 11:19:17 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 11:19:17 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 11:19:17 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 11:19:17 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 11:19:17 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 11:19:17 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 11:19:17 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 11:21:59 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 11:21:59 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 11:21:59 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 11:21:59 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 12928@AitorMilicua
+
+[2025-05-07 11:21:59 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 11:21:59 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 11:21:59 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 11:21:59 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 11:21:59 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 11:21:59 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 11:21:59 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 11:21:59 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 11:21:59 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 11:21:59 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 11:21:59 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 11:21:59 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 11:21:59 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 11:21:59 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 11:21:59 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 11:21:59 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 11:21:59 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 11:21:59 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 11:21:59 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 11:21:59 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 11:21:59 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 11:21:59 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 11:21:59 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 11:21:59 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 11:21:59 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 11:21:59 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 18:26:32 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 18:26:32 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 18:26:32 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 18:26:32 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 12976@AitorMilicua
+
+[2025-05-07 18:26:33 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 18:26:33 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 18:26:33 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 18:26:33 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 18:26:33 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 18:26:33 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 18:26:33 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 18:26:33 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 18:26:33 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 18:26:33 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 18:26:33 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 18:26:33 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 18:26:33 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 18:26:33 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 18:26:33 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 18:26:33 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 18:26:33 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 18:26:33 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 18:26:33 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 18:26:33 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 18:26:33 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 18:26:33 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 18:26:33 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 18:26:33 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 18:26:33 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 18:26:33 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 18:27:57 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 18:27:57 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 18:27:57 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 18:27:57 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 17220@AitorMilicua
+
+[2025-05-07 18:27:57 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 18:27:57 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 18:27:58 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 18:27:58 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 18:27:58 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 18:27:58 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 18:27:58 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 18:27:58 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 18:27:58 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 18:27:58 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 18:27:58 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 18:27:58 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 18:27:58 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 18:27:58 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 18:27:58 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 18:27:58 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 18:27:58 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 18:27:58 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 18:27:58 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 18:27:58 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 18:27:58 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 18:27:58 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 18:27:58 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 18:27:58 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 18:27:58 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 18:27:58 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 19:29:16 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 19:29:16 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 19:29:16 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 19:29:40 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 19:29:40 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 19:29:40 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 19:32:00 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 19:32:00 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 19:32:00 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 19:32:00 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 25012@AitorMilicua
+
+[2025-05-07 19:32:00 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 19:32:00 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 19:32:00 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 19:32:00 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 19:32:00 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 19:32:00 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 19:32:00 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 19:32:00 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 19:32:00 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 19:32:00 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 19:32:00 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 19:32:00 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 19:32:00 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 19:32:00 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 19:32:00 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 19:32:00 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 19:32:00 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 19:32:00 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 19:32:00 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 19:32:00 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 19:32:00 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 19:32:00 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 19:32:00 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 19:32:00 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 19:32:00 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 19:32:00 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 19:34:50 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 19:34:50 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 19:34:50 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 19:34:51 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 16392@AitorMilicua
+
+[2025-05-07 19:34:51 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 19:34:51 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 19:34:51 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 19:34:51 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 19:34:51 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 19:34:51 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 19:34:51 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 19:34:51 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 19:34:51 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 19:34:51 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 19:34:51 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 19:34:51 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 19:34:51 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 19:34:51 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 19:34:51 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 19:34:51 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 19:34:51 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 19:34:51 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 19:34:51 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 19:34:51 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 19:34:51 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 19:34:51 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 19:34:51 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 19:34:51 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 19:34:51 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 19:34:51 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 19:42:48 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 19:42:48 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 19:42:48 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 19:42:48 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 20092@AitorMilicua
+
+[2025-05-07 19:42:48 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 19:42:48 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 19:42:48 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 19:42:48 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 19:42:48 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 19:42:48 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 19:42:48 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 19:42:48 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 19:42:48 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 19:42:48 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 19:42:48 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 19:42:48 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 19:42:48 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 19:42:48 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 19:42:48 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 19:42:48 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 19:42:48 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 19:42:48 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 19:42:48 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 19:42:48 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 19:42:48 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 19:42:48 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 19:42:48 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 19:42:48 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 19:42:48 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 19:42:48 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 19:54:16 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 19:54:16 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 19:54:16 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 19:54:17 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 15208@AitorMilicua
+
+[2025-05-07 19:54:17 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 19:54:17 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 19:54:17 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 19:54:17 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 19:54:17 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 19:54:17 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 19:54:17 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 19:54:17 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 19:54:17 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 19:54:17 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 19:54:17 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 19:54:17 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 19:54:17 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 19:54:17 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 19:54:17 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 19:54:17 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 19:54:17 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 19:54:17 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 19:54:17 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 19:54:17 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 19:54:17 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 19:54:17 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 19:54:17 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 19:54:17 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 19:54:17 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 19:54:17 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 20:05:15 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 20:05:15 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 20:05:15 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 20:05:15 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 2240@AitorMilicua
+
+[2025-05-07 20:05:16 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 20:05:16 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 20:05:16 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 20:05:16 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 20:05:16 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 20:05:16 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 20:05:16 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 20:05:16 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 20:05:16 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 20:05:16 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 20:05:16 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 20:05:16 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 20:05:16 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 20:05:16 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 20:05:16 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 20:05:16 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 20:05:16 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 20:05:16 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 20:05:16 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 20:05:16 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 20:05:16 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 20:05:16 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 20:05:16 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 20:05:16 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 20:05:16 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 20:05:16 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 20:07:52 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 20:07:52 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 20:07:52 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 20:07:52 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 21436@AitorMilicua
+
+[2025-05-07 20:07:52 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 20:07:52 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 20:07:52 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 20:07:52 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 20:07:52 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 20:07:52 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 20:07:52 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 20:07:52 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 20:07:52 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 20:07:52 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 20:07:52 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 20:07:52 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 20:07:52 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 20:07:52 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 20:07:52 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 20:07:52 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 20:07:52 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 20:07:52 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 20:07:52 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 20:07:52 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 20:07:52 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 20:07:52 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 20:07:52 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 20:07:52 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 20:07:52 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 20:07:52 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 21:10:34 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 21:10:34 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 21:10:34 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 21:10:34 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 25004@AitorMilicua
+
+[2025-05-07 21:10:35 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 21:10:35 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 21:10:35 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 21:10:35 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 21:10:35 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 21:10:35 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 21:10:35 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 21:10:35 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 21:10:35 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 21:10:35 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 21:10:35 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 21:10:35 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 21:10:35 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 21:10:35 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 21:10:35 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 21:10:35 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 21:10:35 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 21:10:35 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 21:10:35 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 21:10:35 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 21:10:35 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 21:10:35 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 21:10:35 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 21:10:35 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 21:10:35 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 21:10:35 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 21:13:56 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 21:13:56 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 21:13:56 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 21:13:56 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 6540@AitorMilicua
+
+[2025-05-07 21:13:56 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 21:13:56 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 21:13:56 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 21:13:56 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 21:13:56 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 21:13:56 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 21:13:56 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 21:13:56 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 21:13:56 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 21:13:56 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 21:13:56 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 21:13:56 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 21:13:56 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 21:13:56 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 21:13:56 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 21:13:56 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 21:13:56 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 21:13:56 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 21:13:56 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 21:13:56 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 21:13:56 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 21:13:56 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 21:13:56 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 21:13:56 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 21:13:56 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 21:13:56 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 21:17:58 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 21:17:58 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 21:17:58 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 21:17:58 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 24836@AitorMilicua
+
+[2025-05-07 21:17:58 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 21:17:58 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 21:17:58 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 21:17:58 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 21:17:58 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 21:17:58 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 21:17:58 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 21:17:58 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 21:17:58 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 21:17:58 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 21:17:58 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 21:17:58 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 21:17:58 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 21:17:58 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 21:17:58 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 21:17:58 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 21:17:58 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 21:17:58 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 21:17:58 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 21:17:58 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 21:17:58 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 21:17:58 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 21:17:58 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 21:17:58 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 21:17:58 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 21:17:58 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+[2025-05-07 21:23:18 #31 type.registry] 
+New type domain.Review
+
+[2025-05-07 21:23:18 #32 type] 
+Type domain.Review is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 21:24:31 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 21:24:31 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 21:24:31 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 21:24:31 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 19432@AitorMilicua
+
+[2025-05-07 21:24:32 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 21:24:32 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 21:24:32 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 21:24:32 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 21:24:32 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 21:24:32 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 21:24:32 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 21:24:32 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 21:24:32 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 21:24:32 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 21:24:32 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 21:24:32 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 21:24:32 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 21:24:32 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 21:24:32 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 21:24:32 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 21:24:32 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 21:24:32 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 21:24:32 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 21:24:32 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 21:24:32 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 21:24:32 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 21:24:32 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 21:24:32 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 21:24:32 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 21:24:32 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+[2025-05-07 21:25:02 #31 type.registry] 
+New type domain.Review
+
+[2025-05-07 21:25:02 #32 type] 
+Type domain.Review is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 21:26:39 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 21:26:39 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 21:26:39 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 21:26:40 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 8036@AitorMilicua
+
+[2025-05-07 21:26:40 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 21:26:40 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 21:26:40 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 21:26:40 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 21:26:40 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 21:26:40 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 21:26:40 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 21:26:40 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 21:26:40 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 21:26:40 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 21:26:40 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 21:26:40 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 21:26:40 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 21:26:40 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 21:26:40 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 21:26:40 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 21:26:40 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 21:26:40 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 21:26:40 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 21:26:40 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 21:26:40 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 21:26:40 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 21:26:40 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 21:26:40 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 21:26:40 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 21:26:40 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+[2025-05-07 21:26:55 #31 type.registry] 
+New type domain.Review
+
+[2025-05-07 21:26:55 #32 type] 
+Type domain.Review is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 22:48:15 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 22:48:15 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 22:48:15 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 22:48:15 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 6608@AitorMilicua
+
+[2025-05-07 22:48:15 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 22:48:15 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 22:48:15 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 22:48:15 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 22:48:15 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 22:48:15 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 22:48:15 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 22:48:15 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 22:48:15 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 22:48:15 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 22:48:15 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 22:48:15 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 22:48:15 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 22:48:15 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 22:48:15 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 22:48:15 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 22:48:15 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 22:48:15 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 22:48:15 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 22:48:15 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 22:48:15 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 22:48:15 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 22:48:15 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 22:48:15 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 22:48:15 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 22:48:15 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 22:56:24 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 22:56:24 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 22:56:24 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 22:56:24 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 22:56:24 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 22:56:24 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 22:56:24 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 20704@AitorMilicua
+
+[2025-05-07 22:56:24 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 22:56:24 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 22:56:24 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 22:56:24 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 22:56:24 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 22:56:24 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 22:56:24 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 22:56:24 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 22:56:24 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 22:56:24 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 22:56:24 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 22:56:24 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 22:56:24 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 22:56:24 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 22:56:24 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 22:56:24 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 22:56:24 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 22:56:24 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 22:56:24 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 22:56:24 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 22:56:24 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 22:56:24 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 22:56:24 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 22:56:24 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 22:56:24 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 22:56:24 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 23:07:57 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 23:07:57 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 23:07:57 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 23:07:57 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 19256@AitorMilicua
+
+[2025-05-07 23:07:57 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 23:07:57 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 23:07:57 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 23:07:57 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 23:07:57 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 23:07:57 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 23:07:57 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 23:07:57 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 23:07:57 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 23:07:57 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 23:07:57 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 23:07:57 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 23:07:57 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 23:07:57 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 23:07:57 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 23:07:57 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 23:07:57 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 23:07:57 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 23:07:57 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 23:07:57 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 23:07:57 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 23:07:57 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 23:07:57 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 23:07:57 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 23:07:57 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 23:07:57 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 23:08:34 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 23:08:34 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 23:08:34 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 23:08:34 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 28052@AitorMilicua
+
+[2025-05-07 23:08:34 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 23:08:34 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 23:08:34 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 23:08:34 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 23:08:34 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 23:08:34 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 23:08:34 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 23:08:34 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 23:08:34 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 23:08:34 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 23:08:34 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 23:08:34 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 23:08:34 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 23:08:34 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 23:08:34 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 23:08:34 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 23:08:34 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 23:08:34 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 23:08:34 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 23:08:34 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 23:08:34 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 23:08:34 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 23:08:34 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 23:08:34 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 23:08:34 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 23:08:34 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 23:13:52 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 23:13:52 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 23:13:52 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 23:13:52 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 17808@AitorMilicua
+
+[2025-05-07 23:13:52 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 23:13:52 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 23:13:52 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 23:13:52 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 23:13:52 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 23:13:52 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 23:13:52 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 23:13:52 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 23:13:52 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 23:13:52 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 23:13:52 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 23:13:52 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 23:13:52 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 23:13:52 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 23:13:52 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 23:13:52 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 23:13:52 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 23:13:52 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 23:13:52 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 23:13:52 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 23:13:52 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 23:13:52 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 23:13:52 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 23:13:52 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 23:13:52 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 23:13:52 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-07 23:15:50 #1 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-QS6S-YRV6
+
+[2025-05-07 23:15:50 #2 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-2ARV-MZY4
+
+[2025-05-07 23:15:50 #3 config] 
+Invalid or expired activation code: A062-0GAT-4R1Y-JD7W-XHBQ
+
+[2025-05-07 23:15:50 #4 store] 
+Database 'C:\Users\aitor\Downloads\SegundaIteracion\Rides24_Web\src\main\resources\rides.temp' is opened by 28344@AitorMilicua
+
+[2025-05-07 23:15:50 #5 type.registry] 
+New type domain.Admin
+
+[2025-05-07 23:15:50 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-07 23:15:50 #7 type.registry] 
+New type domain.Ride
+
+[2025-05-07 23:15:50 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-07 23:15:50 #9 type.registry] 
+New type domain.Car
+
+[2025-05-07 23:15:50 #10 type.registry] 
+New type domain.User
+
+[2025-05-07 23:15:50 #11 type.registry] 
+New type domain.Driver
+
+[2025-05-07 23:15:50 #12 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-07 23:15:50 #13 type] 
+Type domain.User is not enhanced.
+
+[2025-05-07 23:15:50 #14 type.registry] 
+New type domain.MoneyMovement
+
+[2025-05-07 23:15:50 #15 type.registry] 
+New type java.util.ArrayList<domain.MoneyMovement>
+
+[2025-05-07 23:15:50 #16 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-07 23:15:50 #17 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2025-05-07 23:15:50 #18 type] 
+Type domain.MoneyMovement is not enhanced.
+
+[2025-05-07 23:15:50 #19 type.registry] 
+New type domain.Booking
+
+[2025-05-07 23:15:50 #20 type] 
+Type domain.Booking is not enhanced.
+
+[2025-05-07 23:15:50 #21 type.registry] 
+New type domain.Traveler
+
+[2025-05-07 23:15:50 #22 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-05-07 23:15:50 #23 type.registry] 
+New type domain.Alerta
+
+[2025-05-07 23:15:50 #24 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-07 23:15:50 #25 type.registry] 
+New type domain.Complain
+
+[2025-05-07 23:15:50 #26 type] 
+Type domain.Complain is not enhanced.
+
+[2025-05-07 23:15:50 #27 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-07 23:15:50 #28 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-07 23:15:50 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-07 23:15:50 #30 type.registry] 
+New type java.util.Vector<domain.Alerta>
+

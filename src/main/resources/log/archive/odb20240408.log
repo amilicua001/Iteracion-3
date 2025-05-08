@@ -1,0 +1,321 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 18:49:52 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 149-151)
+
+[2024-04-08 18:49:52 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 1308@MacBook-Air-de-Aimar.local
+
+[2024-04-08 18:49:52 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 18:49:52 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 18:49:52 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 18:49:52 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 18:49:52 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 18:49:52 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-08 18:49:52 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 18:51:11 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 152-154)
+
+[2024-04-08 18:51:11 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 1317@MacBook-Air-de-Aimar.local
+
+[2024-04-08 18:51:11 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 18:51:11 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 18:51:11 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 18:51:11 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 18:51:11 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 18:51:11 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-08 18:51:11 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 18:59:48 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 1359@MacBook-Air-de-Aimar.local
+
+[2024-04-08 18:59:48 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 18:59:48 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 18:59:48 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 18:59:48 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 18:59:48 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 18:59:48 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-08 18:59:48 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 19:03:49 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 169-172)
+
+[2024-04-08 19:03:49 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 1378@MacBook-Air-de-Aimar.local
+
+[2024-04-08 19:03:49 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 19:03:49 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 19:03:49 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 19:03:49 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 19:03:49 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 19:03:49 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-08 19:03:49 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 19:05:21 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 173-173)
+
+[2024-04-08 19:05:21 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 1387@MacBook-Air-de-Aimar.local
+
+[2024-04-08 19:05:21 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 19:05:21 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 19:05:21 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 19:05:21 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 19:05:21 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 19:05:21 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-08 19:05:21 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 22:27:08 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 10300@DESKTOP-PK3U990
+
+[2024-04-08 22:27:15 #2 type.registry] 
+New type domain.User
+
+[2024-04-08 22:27:15 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 22:27:15 #4 type.registry] 
+New type domain.DiruMugimendu
+
+[2024-04-08 22:27:15 #5 type.registry] 
+New type java.util.ArrayList<domain.DiruMugimendu>
+
+[2024-04-08 22:27:15 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-08 22:27:15 #7 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 22:27:15 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 22:27:15 #9 type.registry] 
+New type domain.Car
+
+[2024-04-08 22:27:15 #10 type.registry] 
+New type domain.Driver
+
+[2024-04-08 22:27:15 #11 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 22:27:15 #12 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 22:27:15 #13 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 22:28:49 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 21104@DESKTOP-PK3U990
+
+[2024-04-08 22:28:49 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 22:28:49 #3 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 22:28:49 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 22:28:49 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 22:28:49 #6 type] 
+Type domain.Driver is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 22:36:26 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 18796@DESKTOP-PK3U990
+
+[2024-04-08 22:36:27 #2 type.registry] 
+New type domain.User
+
+[2024-04-08 22:36:27 #3 type.registry] 
+New type domain.Driver
+
+[2024-04-08 22:36:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 22:36:27 #5 type.registry] 
+New type domain.DiruMugimendu
+
+[2024-04-08 22:36:27 #6 type.registry] 
+New type java.util.ArrayList<domain.DiruMugimendu>
+
+[2024-04-08 22:36:27 #7 type.registry] 
+New type domain.Ride
+
+[2024-04-08 22:36:27 #8 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 22:36:27 #9 type.registry] 
+New type domain.Car
+
+[2024-04-08 22:36:27 #10 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2024-04-08 22:36:27 #11 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 22:36:27 #12 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 22:36:27 #13 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 22:36:27 #14 type.registry] 
+New type domain.Traveler
+
+[2024-04-08 22:36:27 #15 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-08 22:36:27 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 22:36:27 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 22:36:27 #18 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 22:38:37 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 21272@DESKTOP-PK3U990
+
+[2024-04-08 22:38:37 #2 type.registry] 
+New type domain.User
+
+[2024-04-08 22:38:37 #3 type.registry] 
+New type domain.Driver
+
+[2024-04-08 22:38:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-08 22:38:37 #5 type.registry] 
+New type domain.DiruMugimendu
+
+[2024-04-08 22:38:37 #6 type.registry] 
+New type java.util.ArrayList<domain.DiruMugimendu>
+
+[2024-04-08 22:38:37 #7 type.registry] 
+New type domain.Ride
+
+[2024-04-08 22:38:37 #8 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 22:38:37 #9 type.registry] 
+New type domain.Car
+
+[2024-04-08 22:38:37 #10 type.registry] 
+New type java.util.ArrayList<domain.Car>
+
+[2024-04-08 22:38:37 #11 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-08 22:38:37 #12 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 22:38:37 #13 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-08 22:38:37 #14 type.registry] 
+New type domain.Traveler
+
+[2024-04-08 22:38:37 #15 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-08 22:38:37 #16 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 22:38:37 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 22:38:37 #18 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-08 22:38:49 #19 type.registry] 
+New type domain.Booking
+
+[2024-04-08 22:38:49 #20 type] 
+Type domain.Booking is not enhanced.
+

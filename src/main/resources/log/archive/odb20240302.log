@@ -1,0 +1,243 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 11:47:02 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 11445@MacBook-Air-de-Aimar.local
+
+[2024-03-02 11:47:02 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 11:47:02 #3 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 12:02:46 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' has been recovered (tr. 9-9)
+
+[2024-03-02 12:02:46 #2 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 11866@MacBook-Air-de-Aimar.local
+
+[2024-03-02 12:02:46 #3 type.registry] 
+New type domain.User
+
+[2024-03-02 12:02:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 12:02:46 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 12:02:46 #6 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:31:13 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' has been recovered (tr. 10-11)
+
+[2024-03-02 18:31:13 #2 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12376@MacBook-Air-de-Aimar.local
+
+[2024-03-02 18:31:13 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:31:13 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:31:13 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:32:34 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' has been recovered (tr. 12-17)
+
+[2024-03-02 18:32:34 #2 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12382@MacBook-Air-de-Aimar.local
+
+[2024-03-02 18:32:34 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:32:34 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:32:34 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:36:55 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' has been recovered (tr. 18-23)
+
+[2024-03-02 18:36:56 #2 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12445@MacBook-Air-de-Aimar.local
+
+[2024-03-02 18:36:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:36:56 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:36:56 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:37:29 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12455@MacBook-Air-de-Aimar.local
+
+[2024-03-02 18:37:29 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:37:29 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:37:29 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:39:33 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12472@MacBook-Air-de-Aimar.local
+
+[2024-03-02 18:39:33 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:39:33 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:39:33 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:47:38 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12507@MacBook-Air-de-Aimar.local
+
+[2024-03-02 18:47:38 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:47:38 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:47:38 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:49:31 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' has been recovered (tr. 24-24)
+
+[2024-03-02 18:49:31 #2 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12514@MacBook-Air-de-Aimar.local
+
+[2024-03-02 18:49:31 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:49:31 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:49:31 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:07:22 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' has been recovered (tr. 25-25)
+
+[2024-03-02 19:07:22 #2 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12597@MacBook-Air-de-Aimar.local
+
+[2024-03-02 19:07:22 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 19:07:22 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:07:22 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:09:19 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12604@MacBook-Air-de-Aimar.local
+
+[2024-03-02 19:09:19 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 19:09:19 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:09:19 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:09:29 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12607@MacBook-Air-de-Aimar.local
+
+[2024-03-02 19:09:29 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 19:09:29 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:09:29 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:10:13 #5 type.registry] 
+New type domain.Traveler
+
+[2024-03-02 19:10:13 #6 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:11:20 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12621@MacBook-Air-de-Aimar.local
+
+[2024-03-02 19:11:20 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 19:11:20 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:11:20 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:11:20 #5 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:14:54 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12639@MacBook-Air-de-Aimar.local
+
+[2024-03-02 19:14:54 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 19:14:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:14:54 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:14:54 #5 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:20:47 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 12697@MacBook-Air-de-Aimar.local
+
+[2024-03-02 19:20:48 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 19:20:48 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:20:48 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:20:48 #5 type] 
+Type domain.Traveler is not enhanced.
+

@@ -1,0 +1,473 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:41:23 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9035@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:41:23 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:41:23 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:41:23 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:41:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:41:23 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:41:23 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:41:23 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:41:23 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:44:19 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9069@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:44:19 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:44:19 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:44:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:44:19 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:44:19 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:44:19 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:44:19 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:44:19 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:44:57 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 51-51)
+
+[2024-04-25 09:44:57 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9071@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:44:57 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:44:57 #4 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:44:57 #5 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:44:57 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:44:57 #7 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:44:57 #8 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:44:57 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:44:57 #10 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:45:56 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9075@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:45:56 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:45:56 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:45:56 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:45:56 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:45:56 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:45:56 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:45:56 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:45:56 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:46:53 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 52-52)
+
+[2024-04-25 09:46:53 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9080@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:46:53 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:46:53 #4 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:46:53 #5 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:46:53 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:46:53 #7 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:46:53 #8 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:46:53 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:46:53 #10 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:53:37 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9122@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:53:37 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:53:37 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:53:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:53:37 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:53:37 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:53:37 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:53:37 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:53:37 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:56:28 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9137@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:56:28 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:56:28 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:56:28 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:56:28 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:56:28 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:56:28 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:56:28 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:56:28 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 09:58:11 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9162@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 09:58:11 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 09:58:11 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 09:58:11 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 09:58:11 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 09:58:11 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 09:58:11 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 09:58:11 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 09:58:11 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:10:26 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9384@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:10:26 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:10:26 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:10:26 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:10:26 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:10:26 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:10:26 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:10:26 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:10:26 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:13:30 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9422@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:13:30 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:13:30 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:13:30 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:13:30 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:13:30 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:13:30 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:13:30 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:13:30 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:22:16 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9529@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:22:16 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:22:16 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:22:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:22:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:22:16 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:22:16 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:22:16 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:22:16 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:22:55 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9648@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:22:55 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:22:55 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:22:55 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:22:55 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:22:55 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:22:55 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:22:55 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:22:55 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:24:16 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9711@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:24:16 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:24:16 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:24:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:24:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:24:16 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:24:16 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:24:16 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:24:16 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:26:39 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9721@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:26:39 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:26:39 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:26:39 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:26:39 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:26:39 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:26:39 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:26:39 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:26:39 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:39:26 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9814@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:39:26 #2 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:39:26 #3 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:39:26 #4 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:39:26 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:39:26 #6 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:39:26 #7 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:39:26 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:39:26 #9 type] 
+Type domain.Balorazio is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-25 10:48:38 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 62-69)
+
+[2024-04-25 10:48:38 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 9850@MacBook-Air-de-Aimar-2.local
+
+[2024-04-25 10:48:38 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-25 10:48:38 #4 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-25 10:48:38 #5 type] 
+Type domain.User is not enhanced.
+
+[2024-04-25 10:48:38 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-25 10:48:38 #7 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-25 10:48:38 #8 type] 
+Type domain.Booking is not enhanced.
+
+[2024-04-25 10:48:38 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-25 10:48:38 #10 type] 
+Type domain.Balorazio is not enhanced.
+

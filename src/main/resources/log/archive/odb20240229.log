@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-29 11:17:47 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 8465@MacBook-Air-de-Aimar.local
+
+[2024-02-29 11:17:47 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-29 11:17:47 #3 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-29 11:19:09 #1 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' has been recovered (tr. 8-8)
+
+[2024-02-29 11:19:09 #2 store] 
+Database '/Users/aimarbarrenapol/git/Rides24/src/main/resources/rides.temp' is opened by 8473@MacBook-Air-de-Aimar.local
+
+[2024-02-29 11:19:09 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-29 11:19:09 #4 type] 
+Type domain.Ride is not enhanced.
+

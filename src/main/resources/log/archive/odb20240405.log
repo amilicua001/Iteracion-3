@@ -1,0 +1,1146 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 11:46:27 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 12-12)
+
+[2024-04-05 11:46:27 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 9264@DESKTOP-PK3U990
+
+[2024-04-05 11:46:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 11:46:27 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 11:46:27 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 11:46:27 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 11:46:27 #7 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 11:48:35 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 15780@DESKTOP-PK3U990
+
+[2024-04-05 11:48:35 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 11:48:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 11:48:35 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 11:48:35 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 11:48:35 #6 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 11:51:55 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 2776@DESKTOP-PK3U990
+
+[2024-04-05 11:51:55 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 11:51:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 11:51:55 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 11:51:55 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 11:51:55 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 11:52:10 #7 type.registry] 
+New type domain.Booking
+
+[2024-04-05 11:52:10 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 11:56:05 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 13-13)
+
+[2024-04-05 11:56:05 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 5044@DESKTOP-PK3U990
+
+[2024-04-05 11:56:05 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 11:56:05 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 11:56:05 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 11:56:05 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 11:56:05 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 11:56:05 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 11:59:57 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 6420@DESKTOP-PK3U990
+
+[2024-04-05 11:59:57 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 11:59:57 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 11:59:57 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 11:59:57 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 11:59:57 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 11:59:57 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:02:15 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 2028@DESKTOP-PK3U990
+
+[2024-04-05 12:02:15 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:02:15 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:02:15 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:02:15 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:02:15 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:02:15 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:06:03 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 15376@DESKTOP-PK3U990
+
+[2024-04-05 12:06:03 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:06:03 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:06:03 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:06:03 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:06:03 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:06:03 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:08:35 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 13604@DESKTOP-PK3U990
+
+[2024-04-05 12:08:35 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:08:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:08:35 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:08:35 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:08:35 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:08:35 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:09:36 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 13600@DESKTOP-PK3U990
+
+[2024-04-05 12:09:36 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:09:36 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:09:36 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:09:36 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:09:36 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:09:36 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:10:07 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 15064@DESKTOP-PK3U990
+
+[2024-04-05 12:10:07 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:10:07 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:10:07 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:10:07 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:10:07 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:10:07 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:10:47 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 14024@DESKTOP-PK3U990
+
+[2024-04-05 12:10:47 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:10:47 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:10:47 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:10:47 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:10:47 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:10:47 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:13:41 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 13984@DESKTOP-PK3U990
+
+[2024-04-05 12:13:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:13:41 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:13:41 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:13:41 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:13:41 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:13:41 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:14:53 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 16332@DESKTOP-PK3U990
+
+[2024-04-05 12:14:53 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:14:53 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:14:53 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:14:53 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:14:53 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:14:53 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:15:34 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 16084@DESKTOP-PK3U990
+
+[2024-04-05 12:15:35 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:15:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:15:35 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:15:35 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:15:35 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:15:35 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:21:45 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 18-21)
+
+[2024-04-05 12:21:45 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 12180@DESKTOP-PK3U990
+
+[2024-04-05 12:21:45 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:21:45 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:21:45 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:21:45 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:21:45 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:21:45 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:29:25 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 5028@DESKTOP-PK3U990
+
+[2024-04-05 12:29:26 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:29:26 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:29:26 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:29:26 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:29:26 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:29:26 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:34:30 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 16732@DESKTOP-PK3U990
+
+[2024-04-05 12:34:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:34:30 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:34:30 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:34:30 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:34:30 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:34:30 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:36:09 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 7636@DESKTOP-PK3U990
+
+[2024-04-05 12:36:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:36:09 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:36:09 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:36:09 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:36:09 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:36:09 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:37:33 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 27-33)
+
+[2024-04-05 12:37:33 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 2856@DESKTOP-PK3U990
+
+[2024-04-05 12:37:33 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:37:33 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:37:33 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:37:33 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:37:33 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:37:33 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 12:40:36 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 34-35)
+
+[2024-04-05 12:40:36 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 10672@DESKTOP-PK3U990
+
+[2024-04-05 12:40:37 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 12:40:37 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 12:40:37 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 12:40:37 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 12:40:37 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 12:40:37 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 13:40:40 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 36-41)
+
+[2024-04-05 13:40:41 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 15541@MacBook-Air-de-Aimar.local
+
+[2024-04-05 13:40:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 13:40:41 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 13:40:41 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 13:40:41 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 13:40:41 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 13:40:41 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 13:47:38 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 42-43)
+
+[2024-04-05 13:47:38 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 15564@MacBook-Air-de-Aimar.local
+
+[2024-04-05 13:47:38 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 13:47:38 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 13:47:38 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 13:47:38 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 13:47:38 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 13:47:38 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 13:52:45 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 44-44)
+
+[2024-04-05 13:52:45 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 17268@MacBook-Air-de-Aimar.local
+
+[2024-04-05 13:52:45 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 13:52:45 #4 type.registry] 
+New type java.util.ArrayList<domain.DiruMugimendu>
+
+[2024-04-05 13:52:45 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 13:52:45 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 13:52:45 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 13:52:45 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 13:52:45 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 13:55:00 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 45-45)
+
+[2024-04-05 13:55:00 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 17275@MacBook-Air-de-Aimar.local
+
+[2024-04-05 13:55:00 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 13:55:00 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 13:55:00 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 13:55:00 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 13:55:00 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 13:55:00 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 13:57:32 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 17301@MacBook-Air-de-Aimar.local
+
+[2024-04-05 13:57:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 13:57:32 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 13:57:32 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 13:57:32 #5 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 13:57:32 #6 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 13:57:32 #7 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 14:07:55 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 46-49)
+
+[2024-04-05 14:07:55 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 17393@MacBook-Air-de-Aimar.local
+
+[2024-04-05 14:07:55 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 14:07:55 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 14:07:55 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 14:07:55 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 14:07:55 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 14:07:55 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 14:07:55 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 14:15:54 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 17420@MacBook-Air-de-Aimar.local
+
+[2024-04-05 14:15:55 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 14:15:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 14:15:55 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 14:15:55 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 14:15:55 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 14:15:55 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 14:15:55 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 14:17:22 #1 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' has been recovered (tr. 60-61)
+
+[2024-04-05 14:17:22 #2 store] 
+Database '/Users/aimarbarrenapol/git/13/Rides24/src/main/resources/rides.temp' is opened by 17429@MacBook-Air-de-Aimar.local
+
+[2024-04-05 14:17:22 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 14:17:22 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 14:17:22 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 14:17:22 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 14:17:22 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 14:17:22 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 14:17:22 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:39:58 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 7528@DESKTOP-PK3U990
+
+[2024-04-05 15:39:58 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:39:58 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:39:58 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:39:58 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:39:58 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:39:58 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:39:58 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:40:20 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 62-62)
+
+[2024-04-05 15:40:20 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 6408@DESKTOP-PK3U990
+
+[2024-04-05 15:40:20 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:40:20 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:40:20 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:40:20 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:40:20 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:40:20 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:40:20 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:42:09 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 11184@DESKTOP-PK3U990
+
+[2024-04-05 15:42:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:42:09 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:42:09 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:42:09 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:42:09 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:42:09 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:42:09 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:44:17 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 7772@DESKTOP-PK3U990
+
+[2024-04-05 15:44:17 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:44:17 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:44:17 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:44:17 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:44:17 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:44:17 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:44:17 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:46:58 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 10340@DESKTOP-PK3U990
+
+[2024-04-05 15:46:58 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:46:58 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:46:58 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:46:58 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:46:58 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:46:58 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:46:58 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:47:44 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 63-63)
+
+[2024-04-05 15:47:44 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 8400@DESKTOP-PK3U990
+
+[2024-04-05 15:47:44 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:47:44 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:47:44 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:47:44 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:47:44 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:47:44 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:47:44 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:48:46 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 13700@DESKTOP-PK3U990
+
+[2024-04-05 15:48:47 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:48:47 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:48:47 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:48:47 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:48:47 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:48:47 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:48:47 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:49:54 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 12748@DESKTOP-PK3U990
+
+[2024-04-05 15:49:54 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:49:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:49:54 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:49:54 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:49:54 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:49:54 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:49:54 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:51:13 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 6060@DESKTOP-PK3U990
+
+[2024-04-05 15:51:13 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:51:13 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:51:13 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:51:13 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:51:13 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:51:13 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:51:13 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 15:52:47 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 5312@DESKTOP-PK3U990
+
+[2024-04-05 15:52:47 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 15:52:47 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 15:52:47 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 15:52:48 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 15:52:48 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 15:52:48 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 15:52:48 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 17:05:04 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 69-72)
+
+[2024-04-05 17:05:04 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 5048@DESKTOP-PK3U990
+
+[2024-04-05 17:05:04 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 17:05:04 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 17:05:04 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 17:05:04 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 17:05:04 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 17:05:04 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 17:05:04 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 17:06:09 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 73-74)
+
+[2024-04-05 17:06:09 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 16732@DESKTOP-PK3U990
+
+[2024-04-05 17:06:09 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 17:06:09 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 17:06:09 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 17:06:09 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 17:06:09 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 17:06:09 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 17:06:09 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 17:10:09 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 15484@DESKTOP-PK3U990
+
+[2024-04-05 17:10:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 17:10:09 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 17:10:09 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 17:10:09 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 17:10:09 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 17:10:09 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 17:10:09 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 17:15:19 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 83-89)
+
+[2024-04-05 17:15:19 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 9548@DESKTOP-PK3U990
+
+[2024-04-05 17:15:19 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 17:15:19 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 17:15:19 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 17:15:19 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 17:15:19 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 17:15:19 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 17:15:19 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 17:21:34 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 17004@DESKTOP-PK3U990
+
+[2024-04-05 17:21:34 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 17:21:34 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 17:21:34 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 17:21:34 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 17:21:34 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 17:21:34 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 17:21:34 #8 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 17:27:23 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' has been recovered (tr. 97-110)
+
+[2024-04-05 17:27:23 #2 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 16764@DESKTOP-PK3U990
+
+[2024-04-05 17:27:23 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 17:27:23 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 17:27:23 #5 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 17:27:23 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 17:27:23 #7 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 17:27:23 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 17:27:23 #9 type] 
+Type domain.Booking is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-05 17:32:46 #1 store] 
+Database 'C:\Users\Burbu\git\13\Rides24\src\main\resources\rides.temp' is opened by 15492@DESKTOP-PK3U990
+
+[2024-04-05 17:32:46 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-04-05 17:32:46 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-05 17:32:46 #4 type] 
+Type domain.DiruMugimendu is not enhanced.
+
+[2024-04-05 17:32:46 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-05 17:32:46 #6 type] 
+Type domain.Car is not enhanced.
+
+[2024-04-05 17:32:46 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2024-04-05 17:32:46 #8 type] 
+Type domain.Booking is not enhanced.
+
